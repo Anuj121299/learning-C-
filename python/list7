@@ -1,0 +1,5 @@
+li = [22,26,14,85]
+#print(sorted(li))
+#li.sort(reverse= True)
+li.sort()
+print(li)

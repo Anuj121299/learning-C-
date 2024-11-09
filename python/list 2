@@ -1,0 +1,6 @@
+li = [20,25,23,25,True,False,"anuj",20.36,"cybrom"]
+li2 = [1,25,36,56]
+
+li.extend(li2)
+
+print(li[::])

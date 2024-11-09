@@ -1,0 +1,5 @@
+li = [20,25,23,25,True,False,"anuj",20.36,"cybrom"]
+#li.remove(23)
+#li.clear()
+li.pop(2)
+print(li)

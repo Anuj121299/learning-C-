@@ -1,0 +1,3 @@
+li = [20,25,23,25,True,False,"anuj",20.36,"cybrom"]
+
+print(li[8][2:5])
